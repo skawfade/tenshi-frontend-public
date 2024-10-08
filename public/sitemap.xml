@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://tenshianime.ru/</loc>
+	<lastmod>2024-09-07T16:05:39+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://tenshianime.ru/register</loc>
+	<lastmod>2024-09-07T16:05:39+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://tenshianime.ru/login</loc>
+	<lastmod>2024-09-07T16:05:39+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://tenshianime.ru/profile</loc>
+	<lastmod>2024-09-07T16:05:39+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+<url>
+	<loc>https://tenshianime.ru/anime/catalog</loc>
+	<lastmod>2024-09-07T16:05:39+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://tenshianime.ru/profile/lists</loc>
+	<lastmod>2024-09-07T16:05:39+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+<url>
+	<loc>https://tenshianime.ru/settings</loc>
+	<lastmod>2024-09-07T16:05:39+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+</urlset>

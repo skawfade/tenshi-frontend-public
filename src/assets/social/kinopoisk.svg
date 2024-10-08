@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 54.47 57.76">
+  <defs>
+    <linearGradient id="paint0_radial_1_69" x1="-0.82" y1="0.82" x2="55.29" y2="56.94" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f50" />
+      <stop offset="0.06" stop-color="#f50" />
+      <stop offset="0.41" stop-color="#f50" />
+      <stop offset="0.44" stop-color="#fb5f00" />
+      <stop offset="0.54" stop-color="#ee7f00" />
+      <stop offset="0.64" stop-color="#e49900" />
+      <stop offset="0.75" stop-color="#ddab00" />
+      <stop offset="0.87" stop-color="#d8b600" />
+      <stop offset="0.99" stop-color="#d7b900" />
+    </linearGradient>
+  </defs>
+  <path fill="url(#paint0_radial_1_69)"
+    d="M0,0H11.56V17.74L23.61,0h14L17.26,20.79,54.47,0V13.2L21.06,25.74l33.41-3.13V35.15L21.06,32,54.47,44.56v13.2L17.26,37,37.64,57.76h-14L11.55,40V57.76H0V0Z" />
+</svg>

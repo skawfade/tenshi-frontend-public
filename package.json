@@ -1,0 +1,98 @@
+{
+  "name": "tenshi",
+  "description": "Anime",
+  "version": "0.1",
+  "type": "module",
+  "bin": "./bin/cli.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VladislavVovk/Realm-MVP-frontend"
+  },
+  "keywords": [
+    "React",
+    "TypeScript",
+    "Vite",
+    "Redux"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "build:prod": "NODE_ENV=production npm run build",
+    "start:dev": "NODE_ENV=dev npm-run-dev",
+    "lint": "eslint src --max-warnings=0",
+    "format": "prettier --write \"./src/**/*.{js,jsx,ts,tsx,json,css,scss,md}\""
+  },
+  "dependencies": {
+    "@material-tailwind/react": "^2.1.10",
+    "@nextui-org/react": "^2.4.6",
+    "@react-types/shared": "^3.24.1",
+    "@reduxjs/toolkit": "^1.8.1",
+    "@tanstack/react-query": "^5.52.0",
+    "@vidstack/react": "^1.12.9",
+    "axios": "^1.7.7",
+    "dayjs": "^1.11.12",
+    "formik": "^2.4.6",
+    "framer-motion": "^11.3.24",
+    "isomorphic-dompurify": "^2.15.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet-async": "^2.0.5",
+    "react-redux": "^8.0.1",
+    "react-responsive": "^10.0.0",
+    "react-router-dom": "^6.25.1",
+    "react-toastify": "^10.0.5",
+    "use-dark-mode": "^2.3.1",
+    "use-debounce": "^10.0.2"
+  },
+  "devDependencies": {
+    "@eslint/compat": "^1.1.1",
+    "@eslint/js": "^9.9.0",
+    "@nabla/vite-plugin-eslint": "^2.0.4",
+    "@testing-library/jest-dom": "^6.4.2",
+    "@types/jest": "^29.5.12",
+    "@types/js-cookie": "^3.0.6",
+    "@types/node": "^20.8.10",
+    "@types/react": "18.2.65",
+    "@types/react-dom": "^18.2.7",
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "@typescript-eslint/parser": "^6.21.0",
+    "@vitejs/plugin-react": "^4.0.3",
+    "autoprefixer": "^10.4.20",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "cypress": "^13.8.0",
+    "eslint": "^9.9.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-typescript": "^17.1.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-jsx-a11y": "^6.8.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "eslint-plugin-react": "^7.35.0",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "globals": "^15.9.0",
+    "postcss": "^8.4.41",
+    "prettier": "^3.3.3",
+    "prettier-plugin-tailwindcss": "^0.6.6",
+    "tailwindcss": "^3.4.8",
+    "typescript": "^5.4.5",
+    "typescript-eslint": "^8.1.0",
+    "vite": "^4.4.5",
+    "vite-plugin-mkcert": "^1.17.6",
+    "vite-plugin-svgr": "^4.2.0",
+    "vitest": "^0.34.6"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
